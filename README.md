@@ -8,6 +8,7 @@
 ## Game Programming Gems
 
 Game Programming Gems 1
+
 Section 4 Polygonal Techniques
 4.0 Optimizing Vertex Submissions for OpenGL
 4.1 Tweaking A Vertex's Projected Depth Value
@@ -30,6 +31,7 @@ Section 4 Polygonal Techniques
 4.18 Fractal Terrain Generation - Midpoint Displacement 4.19 Fractal Terrain Generation - Particle Deposition
 
 Section 5 Pixel Effects
+
 5.0 2D Lens Flare
 5.1 Using 3D Hardware for 2D Sprite Effects
 5.2 Motif-Based Static Lighting
@@ -44,6 +46,7 @@ Section 5 Pixel Effects
 5.11 Refraction Mapping for Liquids in Containers
 
 Game Programming Gems 2
+
 Section 4 - Geometry Management
 4.1 Comparison of VIPM Methods
 4.2 Simplified Terrain Using Interlocking Tiles
@@ -58,6 +61,7 @@ Section 4 - Geometry Management
 4.11 Classic Super Mario 64 Third-Person Control and Animation
 
 Section 5 - Graphics Display
+
 5.1 Cartoon Rendering: Real-time Silhouette Edge Detection and Rendering
 5.2 Cartoon Rendering Using Texture Mapping and Programmable Vertex Shaders
 5.3 Dynamic Per-Pixel Lighting Techniques
@@ -68,6 +72,7 @@ Section 5 - Graphics Display
 5.8 Operations for Hardware-Accelerated Procedural Texture Animation
 
 Game Programming Gems 3
+
 Section 4 Graphics
 4.1 T-Junction Elimination and Retriangulation
 4.2 Fast Heightfield Normal Calculation
@@ -89,6 +94,7 @@ Section 4 Graphics
 4.19 Rendering with Handcrafted Shading Models
 
 Game Programming Gems 4
+
 Section 5 Graphics
 5.1 Poster Quality Screenshots
 5.2 GPU Shadow Volume Construction for Nonclosed Meshes
@@ -117,6 +123,7 @@ Section 5 Graphics
 5.10 Recombinant Shaders
 
 Game Programming Gems 6
+
 Section 5 Graphics
 5.1 Synthesis of Realistic Idle Motion for Interactive Characters
 5.2 Spatial Partitioning Using an Adaptive Binary Tree
@@ -1309,7 +1316,9 @@ Ray Tracing in Fortnite, by Patrick Kelly, Yuriy O'Donnell, Kenzo ter Elst, Juan
 ReBLUR: A Hierarchical Recurrent Denoiser, by Dmitry Zhdan
 Practical Solutions for Ray Tracing Content Compatibility in Unreal Engine 4, by Evan Hart
 Advances in Real-Time Rendering in 3D Graphics and Games
+
 SIGGRAPH 2021
+
 Improved Spatial Upscaling through FidelityFX Super Resolution for Real-Time Game Engines
 Experimenting with Concurrent Binary Trees for Large Scale Terrain Rendering
 A Deep Dive into Nanite Virtualized Geometry
@@ -1319,6 +1328,7 @@ Radiance Caching for Real-time Global Illumination
 Global Illumination Based on Surfels
 
 SIGGRAPH 2020
+
 Software-Based Variable Rate Shading in Call of Duty: Modern Warfare
 Rendering the Hellscape of Doom Eternal
 From Ray to Path Tracing: Navigating through Dimensions
@@ -1326,6 +1336,7 @@ Precomputed Lighting Advances in Call of Duty: Modern Warfare
 The Technical Art of The Last of Us Part II
 
 SIGGRAPH 2019
+
 A Journey Through Implementing Multiscattering BRDFs and Area Lights
 Leveraging Real-Time Ray Tracing to build a Hybrid Game Engine
 Strand-based Hair Rendering in Frostbite
@@ -1335,6 +1346,7 @@ Multi-resolution Ocean Rendering in Crest Ocean System
 Creating the Atmospheric World of Red Dead Redemption 2: A Complete and Integrated Solution
 
 SIGGRAPH 2018
+
 The Challenges of Rendering an Open World in Far Cry 5
 Material Advances in Call of Duty: WWII
 A Life of a Bokeh
@@ -1344,6 +1356,7 @@ Real-Time rendering’s next frontier: Adopting lessons from offline ray tracing
 Real-Time Ray Tracing of Correct* Soft Shadows
 
 SIGGRAPH 2017
+
 Nubis: Authoring Real-Time Volumetric Cloudscapes with the Decima Engine
 Crest: Novel Ocean Rendering Techniques in an Open Source Framework
 Precomputed lighting in Call of Duty: Infinite Warfare
@@ -1366,6 +1379,7 @@ The Process of Creating Volumetric-based Materials in Uncharted 4
 Technical Art of Uncharted 4
 
 SIGGRAPH 2015
+
 Towards Unified and Physically-Based Volumetric Lighting in Frostbite
 Stochastic Screen-Space Reflections
 The Real-time Volumetric Cloudscapes of Horizon: Zero Dawn
@@ -1392,6 +1406,7 @@ Character Heads Creation Pipeline and Rendering in Destiny
 Destiny Character-Animation System and Lessons Learned
 
 SIGGRAPH 2013
+
 Mythic Science Fiction In Real-Time: Destiny Rendering Engine
 Pixel Synchronization: Solving Old Graphics Problems With New Data Structures
 Practical Clustered Deferred And Forward Shading
@@ -1411,6 +1426,7 @@ Dynamic Sand Simulation and Rendering in Journey
 Graphics gems for games: Findings from Avalanche Studios
 
 SIGGRAPH 2011
+
 Making Game Worlds from Polygon Soup: Visibility, Spatial hierarchy and Rendering Challenges
 Rendering in Cars 2
 Secrets of CryENGINE 3 Graphics Technology
@@ -1422,6 +1438,7 @@ Dynamic lighting in God of War 3
 Pre-Integrated Skin Shading
 
 SIGGRAPH 2010
+
 Rendering techniques in Toy Story 3
 A Real-Time Radiosity Architecture for Video Game
 Real-Time Order Independent Transparency and Indirect Illumination using Direct3D 11
@@ -1433,12 +1450,14 @@ Destruction Masking in Frostbite 2 using Volume Distance Fields
 Water Flow in Portal 2
 
 SIGGRAPH 2009
+
 Lighting Research at Bungie
 Light Propagation Volumes in CryEngine 3
 The Light Pre-Pass Renderer: Renderer Design for Efficient Support of Multiple Lights
 Rendering Technology at Black Rock Studios
 When Fuzzy is Good: Advances in Filtering Techniques
 Graphics Engine Postmortem from LittleBigPlanet
+
 2、视觉
 
 3、自动驾驶
